@@ -1,0 +1,6 @@
+# Demo file for ClickUp ↔ GitHub integration
+
+This file was created only to demonstrate the integration flow:
+- Task ID: CU-86c5rwamp
+- Status change: [IN REVIEW]
+- Purpose: Show how commits in GitHub automatically update the ClickUp task.
